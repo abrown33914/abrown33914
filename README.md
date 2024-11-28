@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="sun.gif" alt="Sun GIF">
+  <img src="stars.gif" alt="stars">
 </p>
