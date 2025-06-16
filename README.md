@@ -1,22 +1,21 @@
 <h1 align="center">👋 Hi, I'm Allison :)</h1>
 
-<table>
-  <tr>
-    <td width="60%">
-      <h3>👩‍💻 About Me</h3>
-      <ul>
-        <li>Junior Software Engineering student at FGCU</li>
-        <li>Vice President of the CSSEC (Computer Science & Software Engineering Club)</li>
-        <li>Interested in front-end development, UI/UX, and secure systems</li>
-        <li>Kind of obsessed with UI details</li>
-        <li>Probably fixing a layout when I should be sleeping</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://github.com/abrown33914/abrown33914/blob/main/stars.gif?raw=true" width="230px" alt="stars gif"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/abrown33914/abrown33914/blob/main/ascii.gif?raw=true" alt="ascii gif" width="600"/>
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+<p align="center">
+I'm Allison Brown, a junior <strong>Software Engineering student</strong> at Florida Gulf Coast University (FGCU).<br>
+I serve as the <strong>Vice President</strong> of the <strong>Computer Science & Software Engineering Club (CSSEC)</strong> at FGCU.<br>
+My focus areas include building for the web 🌐, designing intuitive user experiences 🎨, and exploring secure systems 🔒.
+<br><br>
+Kind of obsessed with UI details.<br>
+Probably fixing a layout when I should be sleeping.
+</p>
 
 ---
 
