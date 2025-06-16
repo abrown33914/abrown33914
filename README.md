@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Allison 👋</h1>
+<h1 align="center">👋 Hi, I'm Allison :)</h1>
 
 <p align="center">
-  <img src="https://github.com/abrown33914/abrown33914/blob/main/stars.gif?raw=true" alt="ascii gif" width="250"/>
+  <img src="https://github.com/abrown33914/abrown33914/blob/main/stars.gif?raw=true" alt="ascii gif" width="600"/>
 </p>
 
 ---
