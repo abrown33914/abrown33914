@@ -34,9 +34,8 @@ Probably fixing a layout when I should be sleeping :,)
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrown33914&show_icons=true&theme=vision-friendly-dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrown33914&layout=compact&theme=vision-friendly-dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abrown33914&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrown33914&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" height="185" />
 </p>
+
