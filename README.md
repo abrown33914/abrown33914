@@ -12,7 +12,7 @@
 I'm a junior <strong>Software Engineering student</strong> at Florida Gulf Coast University (FGCU).<br>
 I serve as the <strong>Vice President</strong> of the <strong>Computer Science & Software Engineering Club (CSSEC)</strong> at FGCU.<br>
 My focus areas include building for the web 🌐, designing intuitive user experiences 🎨, and exploring secure systems 🔒.
-<br><br>
+<br>
 Probably fixing a layout when I should be sleeping :,)
 </p>
 
@@ -31,7 +31,7 @@ Probably fixing a layout when I should be sleeping :,)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="40" height="40" alt="Red Hat" />
 </p>
-
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrown33914&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" height="185" />
 </p>
