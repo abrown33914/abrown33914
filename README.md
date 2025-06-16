@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://github.com/abrown33914/abrown33914/blob/main/stars.gif?raw=true" alt="ascii gif" width="600"/>
 </p>
-<br>
 
 <h2 align="center">👩‍💻 About Me</h2>
 
@@ -14,7 +13,6 @@ My focus areas include building for the web 🌐, designing intuitive user exper
 <br><br>
 Probably fixing a layout when I should be sleeping :,)
 </p>
-<br>
 
 <h2 align="center">🛠 Tech Stack</h2>
 
