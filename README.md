@@ -32,10 +32,7 @@ Probably fixing a layout when I should be sleeping :,)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="40" height="40" alt="Red Hat" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrown33914&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" height="185" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrown33914&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" height="185" />
 </p>
 
