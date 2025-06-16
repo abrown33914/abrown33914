@@ -6,7 +6,7 @@
 
 ---
 
-## 👩‍💻 About Me
+<h3 align="center">👩‍💻 About Me</h3>
 
 <p align="center">
 I'm a junior <strong>Software Engineering student</strong> at Florida Gulf Coast University (FGCU).<br>
@@ -18,7 +18,7 @@ Probably fixing a layout when I should be sleeping :,)
 
 ---
 
-## 🛠 Tech Stack
+<h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
