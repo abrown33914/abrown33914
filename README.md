@@ -8,7 +8,7 @@
 
 <p align="center">
 I'm a junior <strong>Software Engineering student</strong> at Florida Gulf Coast University (FGCU).<br>
-I serve as the <strong>Vice President</strong> of the <strong>Computer Science & Software Engineering Club (CSSEC)</strong> at FGCU.<br>
+I serve as the <strong>President</strong> of the <strong>Computer Science & Software Engineering Club (CSSEC)</strong> at FGCU.<br>
 My focus areas include building for the web 🌐, designing intuitive user experiences 🎨, and exploring secure systems 🔒.
 <br><br>
 Probably fixing a layout when I should be sleeping :,)
