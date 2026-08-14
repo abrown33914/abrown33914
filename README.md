@@ -7,7 +7,7 @@
 <h2 align="center">👩‍💻 About Me</h2>
 
 <p align="center">
-I'm a junior <strong>Software Engineering student</strong> at Florida Gulf Coast University (FGCU).<br>
+I'm a senior <strong>Software Engineering student</strong> at Florida Gulf Coast University (FGCU).<br>
 I serve as the <strong>President</strong> of the <strong>Computer Science & Software Engineering Club (CSSEC)</strong> at FGCU.<br>
 My focus areas include building for the web 🌐, designing intuitive user experiences 🎨, and exploring secure systems 🔒.
 <br><br>
